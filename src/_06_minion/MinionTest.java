@@ -4,11 +4,9 @@ package _06_minion;
  *    Level 1
  */
 
-
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
 
 /*
 
@@ -60,6 +58,3 @@ public class MinionTest {
 	}
 
 }
-
-
-
